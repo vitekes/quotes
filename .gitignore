@@ -1,3 +1,14 @@
+*.pyc
+css
+/report/index.html
+/report/data
+/report/flash
+/report/fonts
+/report/img
+/report/js
+/report/templates
+/report/vendor
+/.idea
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

@@ -1,0 +1,11 @@
+# Test data
+params:
+  url: http://tereshkova.test.kavichki.com/
+#  url: F:\\tereshkova.test.kavichki.com.htm
+  dbhost: localhost
+  dbport: 27017
+  dbname: quotes
+  dbcollection: qtable
+  item_name: test
+  item_count: "123"
+  item_price: "500"

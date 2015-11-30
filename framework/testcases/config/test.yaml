@@ -1,0 +1,4 @@
+# test list
+  tests:
+    test1: TestQuotes.py
+    test2: TestNoWebdriver.py

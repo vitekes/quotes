@@ -1,0 +1,13 @@
+colorama==0.3.3
+enum34==1.0.4
+findtools==1.0.3
+lxml==3.4.4
+namedlist==1.6
+py==1.4.26
+pytest==2.7.0
+pytest-allure-adaptor==1.6.5
+PyYAML==3.11
+selenium==2.45.0
+six==1.9.0
+pymongo==3.1.1
+grab==0.6.30

@@ -15,12 +15,12 @@
  - virtualenv env\venv
 
 6) активировать окружение
- - env\env\Scripts\activate.bat
+ - env\venv\Scripts\activate.bat
 возможно потребуется установка visual studio
 
 7) модуль pycurl устанавливается в ручную. Короткий путь установки: 
-   установить pycurl в систему, затем из папки python/Lib/Site-packages скопироваь файл в наше виртуальное окружение
-   env/venv/Lib/Site-packages файл pycurl-7.19.5.3-py2.7.egg-info
+   Скачать pycurl http://pycurl.sourceforge.net/download/pycurl-7.19.5.win32-py2.7.zip
+   Разархивировать скачанный архив в папку env\venv\Lib\site-packages
 
 8) установить зависимости проекта (из папки intranet_py)
  - pip install -r deps

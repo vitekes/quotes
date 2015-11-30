@@ -1,3 +1,4 @@
+# install pycurl first
 colorama==0.3.3
 enum34==1.0.4
 findtools==1.0.3
